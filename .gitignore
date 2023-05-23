@@ -1,0 +1,13 @@
+*.fasta
+*.fastq
+*.tar
+*.gz
+*.fa
+*.fq
+*.fasta.gz
+*.fastq.gz
+*.fa.gz
+*.fq.gz
+*.sif
+/test_data
+/old_trans
